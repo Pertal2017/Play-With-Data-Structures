@@ -10,7 +10,7 @@ Git的下载需要到其官网下载，这里给出其Windows版本的链接[Git
 ### SourceTree安装
 SourceTree的下载同样在其[官方网站](https://www.sourcetreeapp.com/)能够下载到，由于我自己已经安装了SourceTree所以这里给出[SourceTree安装（小白特别详细教程）](https://www.jianshu.com/p/dce21c4e88fc)。
 ## 创建属于自己的远程仓库
-1. 在创建自己的远程仓库之前，我们需要拥有自己的GitHub账号，登录[GitHub](https://github.com/)既可以创建，这里推荐**谷歌浏览器**因为其自带翻译功能，毕竟对于新手来说，英语也是一个门槛，在完成自己账号的创建登录之后选择上方的**加号**，选择**New repository**  
+1. 在创建自己的远程仓库之前，我们需要拥有自己的GitHub账号，登录 [GitHub](https://github.com/)既可以创建，这里推荐**谷歌浏览器**因为其自带翻译功能，毕竟对于新手来说，英语也是一个门槛，在完成自己账号的创建登录之后选择上方的**加号**，选择**New repository**  
 
 <center>
 <img src="https://github.com/Pertal2017/Images/blob/master/PlayWithDataStructures/Introuctions/HowToUseGit/Step1.png">
@@ -40,9 +40,9 @@ Note:当然这里也可以选择**Use SSH**,通过SSH密钥的方式登入，这
 1. [解决Github网页上图片显示失败的问题](https://blog.csdn.net/qq_38232598/article/details/91346392)
 2. [SourceTree 入门教程](https://www.jianshu.com/p/11bba2b1e95d)
 3. [如何在Github 的README.md文件中添加图片](https://blog.csdn.net/weixin_38419133/article/details/89412755?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-8.edu_weight&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-8.edu_weight)
-4. <font color=#FF0000>强烈推荐</font> [Git入门](https://www.imooc.com/learn/1052) *这个教程里面有Git命令方法与SourceTree使用方法，开始可以挑选SourceTree的方法*
-5. <font color=#FF0000>强烈推荐</font> [天生不聪明](https://mp.weixin.qq.com/s?__biz=MzU4NTIxODYwMQ==&mid=2247483856&idx=1&sn=47a72cee1190aefc06c24fea78f78484&chksm=fd8cae96cafb2780f2634bbeece1608f321ea2698523869ff6d0c58497ad2dfbf5fa1233b0dd&token=88683563&lang=zh_CN#rd) *大牛的软文，可以看看参考一哈，也是本课程的作者*
-6. <font color=#FF0000>强烈推荐</font> [如果高效学习有什么秘诀的话，那就都在这里了](https://mp.weixin.qq.com/s?__biz=MzU4NTIxODYwMQ==&mid=2247483836&idx=1&sn=90854aa76507281403e4dd9cd434a12b&chksm=fd8caefacafb27ec78f999fde4f1217c04c6e2ff28cf51fe511d8fa29d484d9281ff91de8c9c&token=88683563&lang=zh_CN#rd) *同上*
+4. <text style="color:#FF0000">强烈推荐</text> [Git入门](https://www.imooc.com/learn/1052) *这个教程里面有Git命令方法与SourceTree使用方法，开始可以挑选SourceTree的方法*
+5. <text style="color:#FF0000">强烈推荐</text> [天生不聪明](https://mp.weixin.qq.com/s?__biz=MzU4NTIxODYwMQ==&mid=2247483856&idx=1&sn=47a72cee1190aefc06c24fea78f78484&chksm=fd8cae96cafb2780f2634bbeece1608f321ea2698523869ff6d0c58497ad2dfbf5fa1233b0dd&token=88683563&lang=zh_CN#rd) *大牛的软文，可以看看参考一哈，也是本课程的作者*
+6. <text style="color:#FF0000">强烈推荐</text> [如果高效学习有什么秘诀的话，那就都在这里了](https://mp.weixin.qq.com/s?__biz=MzU4NTIxODYwMQ==&mid=2247483836&idx=1&sn=90854aa76507281403e4dd9cd434a12b&chksm=fd8caefacafb27ec78f999fde4f1217c04c6e2ff28cf51fe511d8fa29d484d9281ff91de8c9c&token=88683563&lang=zh_CN#rd) *同上*
 
 ## 后续补充 -- 这里是后续会补充的内容 ~~当然暂时是不会补充了~~
 1. markdown的使用与安装
