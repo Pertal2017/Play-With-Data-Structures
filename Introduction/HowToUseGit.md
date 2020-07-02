@@ -32,7 +32,7 @@ Note:当然这里也可以选择**Use SSH**,通过SSH密钥的方式登入，这
 1. 在本地打开我们的**SourceTree**按住**Ctrl+N**打开一个页面，选择上方的**Clone**填入**URL**以及**本地保存路径**点击**克隆**即可
 
 <center>
-<img src="https://github.com/Pertal2017/Images/blob/master/PlayWithDataStructures/Introuctions/HowToUseGit/Step3.png">
+<img src="https://github.com/Pertal2017/Images/blob/master/PlayWithDataStructures/Introuctions/HowToUseGit/Step4.png">
 </center>
 
 ## 相关鸣谢与引用
