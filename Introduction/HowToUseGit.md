@@ -40,6 +40,9 @@ Note:当然这里也可以选择**Use SSH**,通过SSH密钥的方式登入，这
 1. [解决Github网页上图片显示失败的问题](https://blog.csdn.net/qq_38232598/article/details/91346392)
 2. [SourceTree 入门教程](https://www.jianshu.com/p/11bba2b1e95d)
 3. [如何在Github 的README.md文件中添加图片](https://blog.csdn.net/weixin_38419133/article/details/89412755?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-8.edu_weight&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-8.edu_weight)
+4. <font color=#FF0000>强烈推荐</font> [Git入门](https://www.imooc.com/learn/1052) *这个教程里面有Git命令方法与SourceTree使用方法，开始可以挑选SourceTree的方法*
+5. <font color=#FF0000>强烈推荐</font> [天生不聪明](https://mp.weixin.qq.com/s?__biz=MzU4NTIxODYwMQ==&mid=2247483856&idx=1&sn=47a72cee1190aefc06c24fea78f78484&chksm=fd8cae96cafb2780f2634bbeece1608f321ea2698523869ff6d0c58497ad2dfbf5fa1233b0dd&token=88683563&lang=zh_CN#rd) *大牛的软文，可以看看参考一哈，也是本课程的作者*
+6. <font color=#FF0000>强烈推荐</font> [如果高效学习有什么秘诀的话，那就都在这里了](https://mp.weixin.qq.com/s?__biz=MzU4NTIxODYwMQ==&mid=2247483836&idx=1&sn=90854aa76507281403e4dd9cd434a12b&chksm=fd8caefacafb27ec78f999fde4f1217c04c6e2ff28cf51fe511d8fa29d484d9281ff91de8c9c&token=88683563&lang=zh_CN#rd) *同上*
 
 ## 后续补充 -- 这里是后续会补充的内容 ~~当然暂时是不会补充了~~
 1. markdown的使用与安装
