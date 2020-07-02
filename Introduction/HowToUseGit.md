@@ -16,24 +16,31 @@ SourceTree的下载同样在其[官方网站](https://www.sourcetreeapp.com/)能
 <img src="https://github.com/Pertal2017/Images/blob/master/PlayWithDataStructures/Introuctions/HowToUseGit/Step1.png">
 </center>
 
-1. 跳转页面后在**Repository name**中填入自己的仓库名，**Description**中填入对此仓库的描述，这里注意的是由于初期我们使用的是**SourceTree**因此勾选**Initialize this repository with a README**可以减少对仓库的初始化操作，交由Github完成，最后点击**Create repository**即可创建自己的GitHub远程仓库。
+2. 跳转页面后在**Repository name**中填入自己的仓库名，**Description**中填入对此仓库的描述，这里注意的是由于初期我们使用的是**SourceTree**因此勾选**Initialize this repository with a README**可以减少对仓库的初始化操作，交由Github完成，最后点击**Create repository**即可创建自己的GitHub远程仓库。
 
 <center>
 <img src="https://github.com/Pertal2017/Images/blob/master/PlayWithDataStructures/Introuctions/HowToUseGit/Step2.png">
 </center>
 
-1. 创建完成后，选择**Code**按钮，在**Clone With HTTPS**中会给出一个**URL**链接，复制这个链接即可。  
+3. 创建完成后，选择**Code**按钮，在**Clone With HTTPS**中会给出一个**URL**链接，复制这个链接即可。  
 Note:当然这里也可以选择**Use SSH**,通过SSH密钥的方式登入，这里不做赘述。
 
 <center>
 <img src="https://github.com/Pertal2017/Images/blob/master/PlayWithDataStructures/Introuctions/HowToUseGit/Step3.png">
 </center>
 
-1. 在本地打开我们的**SourceTree**按住**Ctrl+N**打开一个页面，选择上方的**Clone**填入**URL**以及**本地保存路径**点击**克隆**即可
+4. 在本地打开我们的**SourceTree**按住**Ctrl+N**打开一个页面，选择上方的**Clone**填入**URL**以及**本地保存路径**点击**克隆**即可
 
 <center>
 <img src="https://github.com/Pertal2017/Images/blob/master/PlayWithDataStructures/Introuctions/HowToUseGit/Step4.png">
 </center>
 
-## 相关鸣谢与引用
-## 后续补充 -- 这里是后续会补充的内容 
+## 相关引用与推荐
+
+1. [解决Github网页上图片显示失败的问题](https://blog.csdn.net/qq_38232598/article/details/91346392)
+2. [SourceTree 入门教程](https://www.jianshu.com/p/11bba2b1e95d)
+3. [如何在Github 的README.md文件中添加图片](https://blog.csdn.net/weixin_38419133/article/details/89412755?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-8.edu_weight&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-8.edu_weight)
+
+## 后续补充 -- 这里是后续会补充的内容 ~~当然暂时是不会补充了~~
+1. markdown的使用与安装
+2. 如何使用GitBush进行操作
