@@ -13,26 +13,26 @@ SourceTree的下载同样在其[官方网站](https://www.sourcetreeapp.com/)能
 1. 在创建自己的远程仓库之前，我们需要拥有自己的GitHub账号，登录[GitHub](https://github.com/)既可以创建，这里推荐**谷歌浏览器**因为其自带翻译功能，毕竟对于新手来说，英语也是一个门槛，在完成自己账号的创建登录之后选择上方的**加号**，选择**New repository**  
 
 <center>
-<img src="https://github.com/Pertal2017/Images/blob/master/PlayWithDataStructures/Introuctions/HowToUseGit/Step1.png" height="100" width="100">
+<img src="https://github.com/Pertal2017/Images/blob/master/PlayWithDataStructures/Introuctions/HowToUseGit/Step1.png">
 </center>
 
-2. 跳转页面后在**Repository name**中填入自己的仓库名，**Description**中填入对此仓库的描述，这里注意的是由于初期我们使用的是**SourceTree**因此勾选**Initialize this repository with a README**可以减少对仓库的初始化操作，交由Github完成，最后点击**Create repository**即可创建自己的GitHub远程仓库。
+1. 跳转页面后在**Repository name**中填入自己的仓库名，**Description**中填入对此仓库的描述，这里注意的是由于初期我们使用的是**SourceTree**因此勾选**Initialize this repository with a README**可以减少对仓库的初始化操作，交由Github完成，最后点击**Create repository**即可创建自己的GitHub远程仓库。
 
 <center>
-<img src="https://github.com/Pertal2017/Images/blob/master/PlayWithDataStructures/Introuctions/HowToUseGit/Step2.png" height="100" width="100">
+<img src="https://github.com/Pertal2017/Images/blob/master/PlayWithDataStructures/Introuctions/HowToUseGit/Step2.png">
 </center>
 
-3. 创建完成后，选择**Code**按钮，在**Clone With HTTPS**中会给出一个**URL**链接，复制这个链接即可。  
+1. 创建完成后，选择**Code**按钮，在**Clone With HTTPS**中会给出一个**URL**链接，复制这个链接即可。  
 Note:当然这里也可以选择**Use SSH**,通过SSH密钥的方式登入，这里不做赘述。
 
 <center>
-<img src="https://github.com/Pertal2017/Images/blob/master/PlayWithDataStructures/Introuctions/HowToUseGit/Step3.png" height="100" width="100">
+<img src="https://github.com/Pertal2017/Images/blob/master/PlayWithDataStructures/Introuctions/HowToUseGit/Step3.png">
 </center>
 
-4. 在本地打开我们的**SourceTree**按住**Ctrl+N**打开一个页面，选择上方的**Clone**填入**URL**以及**本地保存路径**点击**克隆**即可
+1. 在本地打开我们的**SourceTree**按住**Ctrl+N**打开一个页面，选择上方的**Clone**填入**URL**以及**本地保存路径**点击**克隆**即可
 
 <center>
-<img src="https://github.com/Pertal2017/Images/blob/master/PlayWithDataStructures/Introuctions/HowToUseGit/Step3.png" height="100" width="100">
+<img src="https://github.com/Pertal2017/Images/blob/master/PlayWithDataStructures/Introuctions/HowToUseGit/Step3.png">
 </center>
 
 ## 相关鸣谢与引用
